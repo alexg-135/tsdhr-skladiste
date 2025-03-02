@@ -11,8 +11,6 @@
 - Analiza zahtijeva: [PDF](/docs/AG20221103%20-%20Skladište%20-%20Analiza%20zahtijeva.pdf), [WORD](/docs/AG20221103%20-%20Skladište%20-%20Analiza%20zahtijeva.docx)
 - Izvedba: [PDF](/docs/AG20230501%20-%20Skladište.pdf), [WORD](/docs/AG20230501%20-%20Skladište.docx)
 
-## Opis
-
 ## O radu
 
 Potrebno je osmisliti i realizirati bazu podataka koja može učinkovito poslužiti za
